@@ -1,0 +1,5 @@
+E:\学习\模拟登陆\Analog\Analog\Analog.BLL\bin\Debug\Analog.BLL.dll
+E:\学习\模拟登陆\Analog\Analog\Analog.BLL\bin\Debug\Analog.BLL.pdb
+E:\学习\模拟登陆\Analog\Analog\Analog.BLL\obj\Debug\Analog.BLL.csprojResolveAssemblyReference.cache
+E:\学习\模拟登陆\Analog\Analog\Analog.BLL\obj\Debug\Analog.BLL.dll
+E:\学习\模拟登陆\Analog\Analog\Analog.BLL\obj\Debug\Analog.BLL.pdb

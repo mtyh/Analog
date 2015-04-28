@@ -1,0 +1,11 @@
+E:\学习\模拟登陆\Analog\Analog\Analog\obj\x86\Debug\Analog.csprojResolveAssemblyReference.cache
+E:\学习\模拟登陆\Analog\Analog\Analog\obj\x86\Debug\Analog.Properties.Resources.resources
+E:\学习\模拟登陆\Analog\Analog\Analog\obj\x86\Debug\Analog.csproj.GenerateResource.Cache
+E:\学习\模拟登陆\Analog\Analog\Analog\bin\Debug\Analog.exe
+E:\学习\模拟登陆\Analog\Analog\Analog\bin\Debug\Analog.pdb
+E:\学习\模拟登陆\Analog\Analog\Analog\bin\Debug\Analog.BLL.dll
+E:\学习\模拟登陆\Analog\Analog\Analog\bin\Debug\Analog.BLL.pdb
+E:\学习\模拟登陆\Analog\Analog\Analog\obj\x86\Debug\Analog.exe
+E:\学习\模拟登陆\Analog\Analog\Analog\obj\x86\Debug\Analog.pdb
+E:\学习\模拟登陆\Analog\Analog\Analog\obj\x86\Debug\Analog.Form1.resources
+E:\学习\模拟登陆\Analog\Analog\Analog\bin\Debug\Winista.HtmlParser.dll
